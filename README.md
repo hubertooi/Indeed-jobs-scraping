@@ -22,7 +22,7 @@ Python web scraper for scraping jobs info from Indeed.com link: https://www.inde
 
 ### Before running Indeed_Job_Scraping.py
 
-1) At codeline 77: you will need to specify the path you intend to save csv file of the quotes scraped from the python file. You only need to change to path directory within path = 'C:\\Users\\Hubert\\Desktop\\'. The back portion is set up for csv file naming unless you want to change the naming format.
+1) At codeline 79: you will need to specify the path you intend to save csv file of the quotes scraped from the python file. You only need to change to path directory within path = 'C:\\Users\\Hubert\\Desktop\\'. The back portion is set up for csv file naming unless you want to change the naming format.
 
 ### Code running
 
