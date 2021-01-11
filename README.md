@@ -38,7 +38,7 @@ Python web scraper for scraping jobs info from Indeed.com link: https://www.inde
 
 2) The output will vary depending on the time when job is updated frequently.
 
-# Enjoy and happy scraping quotes
+# Enjoy and happy scraping jobs
 
 
 
