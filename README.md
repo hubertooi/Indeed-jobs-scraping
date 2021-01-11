@@ -36,7 +36,7 @@ Python web scraper for scraping jobs info from Indeed.com link: https://www.inde
 
 1) jobs_data_scientist.csv and jobs_software_engineer.csv are examples csv.
 
-2) The output will vary depending 
+2) The output will vary depending on the time when job is updated frequently.
 
 # Enjoy and happy scraping quotes
 
