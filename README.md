@@ -1,7 +1,7 @@
 
 # Project
 
-Python web scraper for scraping quotes by topic from BrainyQuotes website: https://www.brainyquote.com/
+Python web scraper for scraping jobs info from Indeed.com link: https://www.indeed.com
 
 ### Before starting
 
